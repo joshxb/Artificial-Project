@@ -8,6 +8,10 @@ import { TransactionsComponent } from './admin/transactions/transactions.compone
 import { ActivitiesComponent } from './admin/activities/activities.component';
 import { SettingsComponent } from './admin/settings/settings.component';
 import { FeedbacksComponent } from './admin/feedbacks/feedbacks.component';
+import { LoginComponent } from './artifial/login/login.component';
+import { RegistrationComponent } from './artifial/registration/registration.component';
+import { LandingComponent } from './artifial/landing/landing.component';
+
 
 @NgModule({
   declarations: [
@@ -17,7 +21,10 @@ import { FeedbacksComponent } from './admin/feedbacks/feedbacks.component';
     TransactionsComponent,
     ActivitiesComponent,
     SettingsComponent,
-    FeedbacksComponent
+    FeedbacksComponen
+    LoginComponent,
+    RegistrationComponent,
+    LandingComponent
   ],
   imports: [
     BrowserModule
