@@ -6,5 +6,6 @@ use Illuminate\Http\Request;
 
 class ArtificialController extends Controller
 {
-    //
+    // hello guys
+    //I'm back
 }
