@@ -8,4 +8,6 @@ class ArtificialController extends Controller
 {
     // hello guys
     //I'm back
+
+    //this is now a new code!
 }
